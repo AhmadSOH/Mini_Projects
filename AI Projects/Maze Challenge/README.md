@@ -4,21 +4,19 @@
 implement an algorithm that can find the way out of a maze.
 ___________________________________________________________________________
 
-The map Input will be 2D array, like this:
+The Input will be like this:
 
-[
+1 1 1 1 1
 
-[1, 1, 1, 1, 1],
+1 2 0 1 1
 
-[1, 2, 0, 1, 1],
+1 1 0 1 1
 
-[1, 1, 0, 1, 1],
+1 1 0 0 0
 
-[1, 1, 0, 0, 0],
+1 1 1 1 3
 
-[1, 1, 1, 1, 3]
 
-]
 
 - integer 0 represents the places we can move in.
 - integer 1 represents walls
