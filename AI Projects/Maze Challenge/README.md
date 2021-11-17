@@ -20,5 +20,5 @@ The Input will be like this:
 
 - integer 0 represents the places we can move in.
 - integer 1 represents walls
-- integer 2 is the starting point ("a maze can must have exacly one Starting Point").
+- integer 2 is the starting point ("a maze must have exacly one Starting Point").
 - integer 3 is the Exit ("A maze can have more than One Exit, and the Exit can be anywhere on the maze").
