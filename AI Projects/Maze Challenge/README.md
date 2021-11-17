@@ -1,7 +1,7 @@
 # challenge - maze problem
 
 ### TODO:
-implement an algorithm that can find the way out of a maze.
+implement an algorithm that can find the way out of a maze using DFS.
 ___________________________________________________________________________
 
 The Input will be like this:
